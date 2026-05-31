@@ -6,6 +6,9 @@ Below is a list of all the CVEs that I have discovered..
 
 | CVE ID | Type | PoC |
 |--------|------|-----|
+| CVE-2026-10290 | SQL Injection | [→](https://github.com/Xmyronn/CVE-2026-10290-SQLI.git) |
+| CVE-2026-10289 | Stored XSS | [→](https://github.com/Xmyronn/CVE-2026-10289-XSS.git) |
+| CVE-2026-10288 | Authentication Bypass | [→](https://github.com/Xmyronn/CVE-2026-10288-AUTH-BYPASS.git) |
 | CVE-2026-10243 | Authentication Bypass | [→](https://github.com/Xmyronn/CVE-2026-10243-AUTH) |
 | CVE-2026-10170 | Remote Code Execution | [→](https://github.com/Xmyronn/CVE-2026-10170-RCE) |
 | CVE-2026-10110 | SQL Injection | [→](https://github.com/Xmyronn/CVE-2026-10110-SQLi) |
