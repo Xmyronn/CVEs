@@ -21,6 +21,6 @@ Below is a list of all the CVEs that I have discovered..
 | CVE-2026-7071 | Broken Access Control | [→](https://github.com/Xmyronn/CVE-2026-7071-access-Control) |
 | CVE-2026-7028 | SQL Injection | [→](https://github.com/Xmyronn/CVE-2026-7028-SQLI) |
 | CVE-2026-6201 | IDOR | [→](https://github.com/Xmyronn/CVE-2026-6201-IDOR) |
-| CVE-2026-6184 | Stored XSS | [→](https://github.com/Xmyronn/CVE-2026-6184-stored-XSS) |
+| CVE-2026-6184 |  XSS | [→](https://github.com/Xmyronn/CVE-2026-6184-stored-XSS) |
 | CVE-2026-6183 | SQL Injection | [→](https://github.com/Xmyronn/CVE-2026-6183-SQLI) |
 | CVE-2026-6182 | SQL Injection (Auth) | [→](https://github.com/Xmyronn/CVE-2026-6182-SQLI-auth) |
